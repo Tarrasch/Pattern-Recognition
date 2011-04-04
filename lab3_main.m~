@@ -1,0 +1,5 @@
+% lab3_main.m
+
+load iris_alt.txt
+
+X1 = iris_alt(find(iris_alt(:,1)==1)
